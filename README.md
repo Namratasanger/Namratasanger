@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Namrata Sanger ! 
  
-- 🌱 I’m currently seeking for co-op opportunities Jan 2023 for various roles like Full Stack Developer, Frontend Engineer, ReactJs Developer or UI Developer
-- 👯 I’m looking to collaborate on projects that are build using MERN stack. 
+- 🌱 I’m currently seeking full time job role for Fall 2023 for various roles like Full Stack Developer, Frontend Engineer, ReactJs Developer or UI Developer
+- 👯 I’m looking to collaborate on projects that are build using Javascript framework, C# or MVC framework. 
 - 📫 How to reach me: namratsanger55@gmail.com, [Youtube](https://www.youtube.com/channel/UCGKceR68T4kBrSVpfjkRO7g/videos)
 - 😄 Pronouns: She/Her
  

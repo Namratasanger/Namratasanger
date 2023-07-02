@@ -1,6 +1,9 @@
+
+![Orange Ebb and Flow Abstract LinkedIn Banner](https://github.com/Namratasanger/Namratasanger/assets/35221403/64dad89c-b4fa-4655-8421-2e80fd9dd51f)
+
 ### Hey there! 👋
 
-Welcome to my GitHub page! I'm Namrata, a passionate software developer with a focus on web development. I thrive on building innovative and user-friendly applications that solve real-world problems.
+Welcome to my GitHub page! I'm Namrata, a passionate Software Engineer with a focus on web development. I thrive on building innovative and user-friendly applications that solve real-world problems.
 
 Throughout my journey, I have honed my skills in front-end and back-end development, leveraging technologies such as **JavaScript**, **React**, **Node.js**, C#, and more. I believe in the power of clean code and strive for excellence in every project I undertake.
 

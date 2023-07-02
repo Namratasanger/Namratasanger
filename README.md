@@ -15,6 +15,6 @@ Feel free to explore my repositories, check out the code, and dive into the proj
 
 Let's build awesome things together! 😄
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/namratasanger/) and [YouTube](https://www.youtube.com/channel/UCog3VtzLKXkELNzBu_6nymw). Looking forward to connecting with you!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/namratasanger/) and [YouTube](https://www.youtube.com/@namratasanger5745/videos). Looking forward to connecting with you!
 
 Thank you for visiting my GitHub page. Happy coding! 🚀
